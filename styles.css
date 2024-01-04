@@ -61,7 +61,7 @@ button {
     width: 500px;
     height: 110px;
     background-color: #273549;
-    color: #CCC1FF;
+    
     font-family: inherit;
     text-align: center;
     border-radius: 5px;
@@ -80,6 +80,8 @@ button {
 }
 
 h2 {
+    color: #CCC1FF;
     font-size: 20px;
     font-weight: 600;
 }
+
