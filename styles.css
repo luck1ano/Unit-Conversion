@@ -6,7 +6,6 @@ body {
 .container {
     width: 550px;
     margin: 30px auto;
-    border: 1px solid black; /* de scos la sfarsit */
     border-radius: 15px;
     background: #1F2937;
     color: #FFF;
@@ -61,21 +60,20 @@ button {
     width: 500px;
     height: 110px;
     background-color: #273549;
-    
     font-family: inherit;
     text-align: center;
     border-radius: 5px;
 }
 
-.top {
+.length {
     margin-top: 35px;
 }
 
-.middle {
+.volume {
     margin: 25px;
 }
 
-.bottom {
+.mass {
     margin-bottom: 35px;
 }
 
